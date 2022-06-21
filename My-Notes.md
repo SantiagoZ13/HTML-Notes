@@ -55,8 +55,14 @@
     - Header Tags
     - Form Tags
 - **CSS**
-    - Concepts
-    - Combiners
-    - Containers
-    - Responsive Desig
+    - Introduction
+    - Box Model
+    - Colors Backgrounds and Images
+    - Selectors
+    - CSS Rules
+    - Fonts
+    - Layout and Placement
+    - Responsive Design
+    -Animations
+    -Transformations
 - **JS**
