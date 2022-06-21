@@ -1,0 +1,62 @@
+# ⚡ My Study Notes: ⚡
+
+## **table of contents**
+- **Computing**
+    - Introduction 
+    - Input and Outputs
+    - Binary System
+    - computing architecture
+    - Internet
+    - Web
+    - Navigator
+- **Programming Concepts**
+    - Data Types and Operators
+    - Control Structures
+    - Flowchart
+    - Programming Nomenclature
+    - Functions
+- **Command Terminal**
+    - Introduction
+    - Basic Commands
+    - Manipulations of files and directories 
+    - File Content
+    - Wild Cards
+    - Redirects
+    - Pipe Operator
+    - Control Operators
+    - Permissions
+    - Search Commands
+    - Control Operators
+    - Network Drives
+    - Enviroment Variables
+    - Compress Files
+    - Process Management
+- **Git and GitHub**
+    - Introduction
+    - Basic Concepts
+    - Basic Git Loop
+    - Basic Commands
+    - View Project History
+    - git rm and reset
+    - Branches
+    - SSH Keys
+    - Branchess in Github
+    - Readme.md
+    - Useful commands 
+- **HTML**
+    - Introduction
+    - Anatomy of a web page
+    - Basic Structure
+    - Tags
+    - Attributes
+    - Semantic Tags
+    - Types of Images
+    - Media Tags
+    - Header Tags
+    - Form Tags
+- **CSS**
+    - Concepts
+    - Combiners
+    - Containers
+    - Responsive Desig
+- **JS**
