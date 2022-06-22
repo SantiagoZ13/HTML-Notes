@@ -63,6 +63,6 @@
     - Fonts
     - Layout and Placement
     - Responsive Design
-    -Animations
-    -Transformations
+    - Animations
+    - Transformations
 - **JS**
