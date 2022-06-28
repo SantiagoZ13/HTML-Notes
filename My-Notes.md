@@ -82,5 +82,5 @@ Informatics, also called computation, is the area of science that is responsible
 ### The language of the computer:
 
 > How it all started
-![](../../Pictures/screnshotComputing.jpg)
+![](https://github.com/SantiagoZ13/My-Notes/blob/main/screnshotComputing.jpg)
 
