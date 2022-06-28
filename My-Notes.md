@@ -1,7 +1,7 @@
 # ⚡ My Study Notes: ⚡
 
-## **table of contents**
-- **Computing**
+### **Table of Content**
+- Computing
     - Introduction 
     - Input and Outputs
     - Binary System
@@ -9,13 +9,13 @@
     - Internet
     - Web
     - Navigator
-- **Programming Concepts**
+- Programming Concepts
     - Data Types and Operators
     - Control Structures
     - Flowchart
     - Programming Nomenclature
     - Functions
-- **Command Terminal**
+- Command Terminal
     - Introduction
     - Basic Commands
     - Manipulations of files and directories 
@@ -31,7 +31,7 @@
     - Enviroment Variables
     - Compress Files
     - Process Management
-- **Git and GitHub**
+- Git and GitHub
     - Introduction
     - Basic Concepts
     - Basic Git Loop
@@ -43,7 +43,7 @@
     - Branchess in Github
     - Readme.md
     - Useful commands 
-- **HTML**
+- HTML
     - Introduction
     - Anatomy of a web page
     - Basic Structure
@@ -54,7 +54,7 @@
     - Media Tags
     - Header Tags
     - Form Tags
-- **CSS**
+- CSS
     - Introduction
     - Box Model
     - Colors Backgrounds and Images
@@ -65,4 +65,22 @@
     - Responsive Design
     - Animations
     - Transformations
-- **JS**
+- JS
+    - a
+    - b
+    - c
+
+
+
+
+## **Computing**
+-----------
+<p>
+Informatics, also called computation, is the area of science that is responsible for studying the administration of methods, techniques and processes in order to store, process and transmit information and data in digital format. Informatics ranges from theoretical disciplines to practical disciplines.
+</p>
+
+### The language of the computer:
+
+> How it all started
+![](../../Pictures/screnshotComputing.jpg)
+
